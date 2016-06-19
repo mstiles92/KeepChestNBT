@@ -1,0 +1,6 @@
+name: KeepChestNBT
+author: mstiles92
+description: This plugin allows non-op players to place chests with inventory contents stored in NBT, overriding the default behavior of wiping out the contents of the inventory.
+main: com.mstiles92.plugins.keepchestnbt.KeepChestNBT
+version: '${project.version}'
+load: POSTWORLD
