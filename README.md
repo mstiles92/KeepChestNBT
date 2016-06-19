@@ -4,6 +4,8 @@ This plugin allows non-op players to place chests with inventory contents stored
 
 No commands, no permissions, just drop it in to the plugins directory to gain this functionality.
 
+Plugin idea originally sought out by [Vechs on Twitter](https://twitter.com/Vechs/status/742595428722429952)
+
 
 ## Stats Collection ##
 
