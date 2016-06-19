@@ -1,5 +1,6 @@
 package com.mstiles92.plugins.keepchestnbt
 
+import com.mstiles92.plugins.keepchestnbt.listeners.BlockListener
 import org.bukkit.plugin.java.JavaPlugin
 
 class KeepChestNBT : JavaPlugin() {
@@ -10,5 +11,7 @@ class KeepChestNBT : JavaPlugin() {
 
     override fun onEnable() {
         instance = this
+
+        server.pluginManager.registerEvents(BlockListener, this)
     }
 }
