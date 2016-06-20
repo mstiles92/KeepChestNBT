@@ -9,4 +9,4 @@ Plugin idea originally sought out by [Vechs on Twitter](https://twitter.com/Vech
 
 ## Stats Collection ##
 
-Anonymous statistics are collected automatically by this plugin and set to MCStats. If you would like to view the data, you can do so [here](http://mcstats.org/plugin/KeepChestNBT). If you would like to disable this feature, simply set "opt-out" to true in plugins/PluginMetrics/config.yml.
+Anonymous statistics are collected automatically by this plugin and sent to MCStats. If you would like to view the data that is collected, you can do so [here](http://mcstats.org/plugin/KeepChestNBT). If you would like to disable this feature, simply set "opt-out" to true in plugins/PluginMetrics/config.yml.
